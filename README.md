@@ -1,2 +1,2 @@
 Installation path:
-/Users/<name>/Library/Application Support/Adobe/CameraRaw/CameraProfiles
+/Users/name/Library/Application Support/Adobe/CameraRaw/CameraProfiles
